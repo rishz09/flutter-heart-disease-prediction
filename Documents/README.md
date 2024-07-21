@@ -1,2 +1,8 @@
 # Documents on the project including: 
-* SRS UML Diagrams, software testing, software versioning, software architecture, risk analysis, software lifecycles and API testing
+* SRS UML Diagrams
+* Software testing
+* Software versioning
+* Software architecture
+* Risk analysis
+* Software lifecycles
+* API testing
